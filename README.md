@@ -2,7 +2,7 @@
   <h3 align="center">Aplicativo DevRadar</h3>
 <br />
 <p align="center">
-  <a href="https://rocketseat.com.br">
+  <a href="https://iniciodesign.com.br/">
     <img src="http://iniciodesign.com.br/images/mobileRadar.png" alt="Logo">
   </a>
 
